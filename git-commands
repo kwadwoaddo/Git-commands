@@ -1,0 +1,44 @@
+# Initialise Git
+$ Git init
+
+# 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# All about branches
+
+# Create a new branch
+$ git branch kojo
+
+# Switch to an existing branch
+$ git checkout kojo
+
+# Create a new branch and Switch to it
+$ git checkout -b quame
+
+# Delete a branch
+$ git branch -d quame
+
+# List all branches
+$ git branch
+
+##
+The head is a pointer to your last commit. It moves with you when you switch branches.
+
+
+
+
