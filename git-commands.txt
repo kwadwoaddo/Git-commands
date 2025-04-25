@@ -52,3 +52,9 @@ git remote add upstream <url>                # Add upstream repo
 git fetch upstream
 git merge upstream/main
 
+🔄 Working with Remotes
+
+git remote add origin <url>         # Link a remote repo
+git remote -v                       # Show remotes
+git remote rename <old> <new>       # Rename a remote
+git remote remove <name>            # Remove a remote
