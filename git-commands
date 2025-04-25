@@ -42,3 +42,6 @@ The head is a pointer to your last commit. It moves with you when you switch bra
 
 
 
+# Git status
+$ git status
+
